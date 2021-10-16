@@ -1,5 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0907936c-667f-4fa9-81f9-6ee89c6244fa/deploy-status)](https://app.netlify.com/sites/fervent-pasteur-a51873/deploys)
-[Depoyed App] https://fervent-pasteur-a51873.netlify.app/
+
+[Depoyed App](https://fervent-pasteur-a51873.netlify.app/)
 
 # YOU-DO App
 
