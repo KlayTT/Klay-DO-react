@@ -1,7 +1,8 @@
 {
-  "name": "react-template-2021",
+  "name": "klay-do-react",
   "version": "0.1.0",
   "private": true,
+  "author": "klay",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.14.0",
     "@popperjs/core": "^2.9.3",
@@ -15,6 +16,7 @@
     "react-scripts": "4.0.3",
     "reactstrap": "^8.10.0",
     "sass": "^1.42.1",
+    "styled-components": "^5.3.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
